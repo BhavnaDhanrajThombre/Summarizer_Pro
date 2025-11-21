@@ -27,7 +27,7 @@ Ensure you have Python 3.8+ installed.
 
 pip install PyPDF2 pillow matplotlib pyttsx3
 
-How to Run
+## How to Run
 python app.py
 
 ## Dependencies
