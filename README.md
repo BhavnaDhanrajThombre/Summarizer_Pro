@@ -32,9 +32,15 @@ python app.py
 
 ## Dependencies
 Library	Purpose
+
 Tkinter	GUI framework
+
 PyPDF2	PDF text extraction
+
 Pillow (PIL)	Image handling & preview
+
 matplotlib	Visualization
+
 pyttsx3	Offline text-to-speech
+
 collections.Counter	Keyword frequency processing
