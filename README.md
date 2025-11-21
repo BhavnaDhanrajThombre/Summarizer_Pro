@@ -17,7 +17,8 @@ Copy & Save Summary
 
 1. Clone the repository
    
-git clone <https://github.com/BhavnaDhanrajThombre/Summarizer_Pro.git>
+git clone : <https://github.com/BhavnaDhanrajThombre/Summarizer_Pro.git>
+
 cd SummarizerPro
 
 2. Install dependencies
