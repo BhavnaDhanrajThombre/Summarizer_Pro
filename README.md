@@ -1,9 +1,9 @@
-## Smart Summarizer Pro
+# Smart Summarizer Pro
 
 Smart Summarizer Pro is a desktop application built with Tkinter that allows users to extract text from PDFs, load images for preview/editing, generate extractive summaries, visualize keyword frequencies, and listen to summaries through text-to-speech.
 It is designed to make studying, reviewing documents, and analyzing content faster and more intuitive.
 
-# Features
+## Features
 
 PDF Text Extraction
 Extractive Summarization with keyword highlighting
@@ -13,7 +13,7 @@ Text-to-Speech with adjustable speed & volume
 Light/Dark Mode
 Copy & Save Summary
 
-# Installation
+## Installation
 
 1. Clone the repository
 git clone <https://github.com/BhavnaDhanrajThombre/Summarizer_Pro.git>
@@ -26,7 +26,7 @@ pip install PyPDF2 pillow matplotlib pyttsx3
 How to Run
 python app.py
 
-# Dependencies
+## Dependencies
 Library	Purpose
 Tkinter	GUI framework
 PyPDF2	PDF text extraction
