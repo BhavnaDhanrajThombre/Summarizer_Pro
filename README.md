@@ -16,11 +16,14 @@ Copy & Save Summary
 ## Installation
 
 1. Clone the repository
+   
 git clone <https://github.com/BhavnaDhanrajThombre/Summarizer_Pro.git>
 cd SummarizerPro
 
 2. Install dependencies
+   
 Ensure you have Python 3.8+ installed.
+
 pip install PyPDF2 pillow matplotlib pyttsx3
 
 How to Run
